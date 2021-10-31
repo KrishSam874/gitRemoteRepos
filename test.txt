@@ -1,1 +1,3 @@
-this is normal text, some
+this is normal text, somE
+
+a new line
